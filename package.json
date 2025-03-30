@@ -1,6 +1,7 @@
 {
   "name": "vscode-markdown-containers",
   "displayName": "vscode-markdown-containers",
+  "repository": "https://github.com/aowji/vscode-markdown-containers",
   "description": "",
   "version": "0.0.1",
   "engines": {
